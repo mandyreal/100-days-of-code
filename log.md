@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 2, 2017
+
+**Today's Progress**: Started coding the Tribute Page for FCC.
+
+**Thoughts:** Though the project is really simple, it took me more time to start building it than what I've thought. It's great to be able to put the pieces back together again. Slowly getting there.
+
+**Link to work:** [Basic Frontend Proect 1 : Build A Tribute Page] (http://codepen.io/mandyreal/pen/bgbLRa)
+
+
 ### Day 0: January 1, 2017
 
 **Today's Progress**: As prep work, started the GIT challenge in FCC as a referesher on Git to allow me to track my work and progress via Github
