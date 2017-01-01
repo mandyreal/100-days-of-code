@@ -6,5 +6,5 @@
 
 **Thoughts:** Starting out is always the hard part of any self-project. Good thing I managed to plow through all the steps in the tutorial and seeing my Github activity become active feels like going back to the gym after the holidays.
 
-**Link to work:** [Save your revisions forever with Git] https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git
+**Link to work:** [Save your revisions forever with Git] (https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git)
 
