@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+http://codepen.io/mandyreal/pen/bgbLRa/
+### Day 2: January 3, 2017
+
+**Today's Progress**: Completed the Tribute Page for FCC.
+
+**Thoughts:** Feels great to be moving forward and completing the project. I find coding in codepen a bit cumbersome will be looking to ways to move them to github.
+
+**Link to work:** [Basic Frontend Proect 1 : Build A Tribute Page] (http://codepen.io/mandyreal/pen/bgbLRa)
+
 ### Day 1: January 2, 2017
 
 **Today's Progress**: Started coding the Tribute Page for FCC.
