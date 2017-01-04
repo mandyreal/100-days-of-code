@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-http://codepen.io/mandyreal/pen/bgbLRa/
+### Day 3: January 4, 2017
+
+**Today's Progress**: Setup local dev environment using Sublimetext and hosting pages in Github pages. I find it hard to read code in Codepen thus the move to Github.
+
+**Thoughts:** It feels more at home coding in Sublimetext than Codepen. Managed to set up new repository in Github for FCC specific projects. 
+
+**Link to work:** [My Freecodecamp projects repo in Github] (https://github.com/mandyreal/freecodecamp.git)
+
+
 ### Day 2: January 3, 2017
 
 **Today's Progress**: Completed the Tribute Page for FCC.
