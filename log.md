@@ -2,7 +2,7 @@
 
 ### Day 4: January 4, 2017
 
-**Today's Progress**: Started the Local Weather App, this is the 1st intermediate project for FCC. One main function which is to get user's browser location is already in place. Next up would be API call to get weather details then build up the rest of the doc to display icon and temperature.
+**Today's Progress**: Started the Local Weather App, this is the 1st intermediate project for FCC. One of the main functions which is to get user's browser location is already in place. Next up would be API call to get weather details then build up the rest of the doc to display icon and temperature.
 
 **Thoughts:** Spent a lot of time reviewing HTML and Bootstrap. I felt more confident when I code the project from scratch as this ensures I understand what each bit of code does and how the parts come together as one. Need to brush up on CSS and Javascript too. It's a long way to go still. 
 
