@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 6, 2017
+
+**Today's Progress**: Continuing the Local Weather app. Browser location is now being displayed. API call to OpenWeatherMap is incorporated - temperature and appropriate icon are now being displayed. The only remaining feature is to convert the temperature from Celsius to Fahrenheit. And also, app works in Chrome but not Safari.
+
+**Thoughts:** It's good to be able to incorporate API calls again. This involved reading API docs and sample codes. There was still a bit of struggle with basic HTML and CSS, so that's still another area to brush up on. It feels good that web app is slowly coming together.
+
+**Link to work:** [Local Weather App for FCC] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/weather
+)
+
+
 ### Day 4: January 4, 2017
 
 **Today's Progress**: Started the Local Weather App, this is the 1st intermediate project for FCC. One of the main functions which is to get user's browser location is already in place. Next up would be API call to get weather details then build up the rest of the doc to display icon and temperature.
