@@ -4,9 +4,9 @@
 
 **Today's Progress**: Continued until early morning to fix bugs. All worked fine until app was uploaded to Github pages. Due to mixed content, API call to OpenWeatherMap over http did not work. I searched for alternatives but eventually ended up using Dark Sky which offered https even for developer accounts. Continued adding the toggle button later today until the final app is meeting all user stories. 
 
-**Thoughts:** It feels really good to finally have completed this project! Last time I struggled hard on how and where to start. The answer is to just start coding. If not for the #100DaysOfCode challenge, I would have immediately stopped in the middle of building the app. I encountered a few issues like mixed content in Github pages. Though I spent a lot of time resolving the issue, it was a good learning experience. So far Day 6 had been the longest time I spend on the challenge. Now I feel more prepared to tackle the next mini project.
+**Thoughts:** It feels really good to finally have completed this project! Last time I struggled hard on how and where to start. The answer is to just start coding. If not for the #100DaysOfCode challenge, I would have immediately stopped in the middle of building the app. I encountered a few issues like mixed content in Github pages. Though I spent a lot of time resolving the issue, it was a good learning experience. So far Day 6 had been the longest time I spent on the challenge. Now I feel more prepared to tackle the next mini project.
 
-**Link to work:** [Local Weather App for FCC] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/weather
+**Link to work:** [Local Weather App for FCC] (https://mandyreal.github.io/freecodecamp/02/weather/) [.  Source code here](https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/weather
 )
 
 ### Day 5: January 6, 2017
