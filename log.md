@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 8, 2017
+
+**Today's Progress**: Started the Wikipedia Viewer App for FCC
+
+**Thoughts:** I struggled with starting the app. Based on experience, having a design mockup makes it easier to start coding the html structure and all. Need to review forms and input fields in HTML, more so the related Bootstrap classes. It's a slow start for this app. 
+
+**Link to work:** [Wikipedia Viewer App for FCC] (https://mandyreal.github.io/freecodecamp/02/wiki/) [.Source code here] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/wiki)
+
+
 ### Day 6: January 7, 2017
 
 **Today's Progress**: Continued until early morning to fix bugs. All worked fine until app was uploaded to Github pages. Due to mixed content, API call to OpenWeatherMap over http did not work. I searched for alternatives but eventually ended up using Dark Sky which offered https even for developer accounts. Continued adding the toggle button later today until the final app is meeting all user stories. 
