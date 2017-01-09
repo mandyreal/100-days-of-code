@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 10, 2017
+
+**Today's Progress**: Finished BinaryAgent algorithm in FCC.
+
+**Thoughts:** Chugging along the JS algorithm scripting in FCC.
+
+**Link to work:** [FCC Intermediate Algorithm Scripting - BinaryAgent] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/algorithm%20scripting/binaryagent.js)
+
+
 ### Day 8: January 9, 2017
 
 **Today's Progress**: Switched back to doing algorithms for now.
