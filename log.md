@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 9, 2017
+
+**Today's Progress**: Switched back to doing algorithms for now.
+
+**Thoughts:** To brush up on Javascript (reduce self-imposed pressure on progressing the intermediate app project), decided to doing the algo scripting for now. Some progress is better than no progress at all. Earlier today I revisited Codecademy and Code School courses on HTML, CSS and Bootstrap. It really needs to practice to retain everything I learned previously. After that, I plan to go back to doing the intermediate projects.
+
+**Link to work:** [FCC Intermediate Algorithm Scriptin - Steamroller] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/algorithm%20scripting/steamroller.js)
+
+
 ### Day 7: January 8, 2017
 
 **Today's Progress**: Started the Wikipedia Viewer App for FCC
