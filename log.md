@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 11, 2017
+
+**Today's Progress**: Finished Everything Be Truth algorithm in FCC.
+
+**Thoughts:** Good to be able to review Javascript Objects again. It's to be able to complete at least one challenge a day, it brings me closer to completeing the FCC frontend cert. And the daily commits on Github looks good!
+
+**Link to work:** [FCC Intermediate Algorithm Scripting - Everything be True] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/algorithm%20scripting/truthcheck.js)
+
+
 ### Day 9: January 10, 2017
 
 **Today's Progress**: Finished BinaryAgent algorithm in FCC.
