@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 16, 2017
+
+**Today's Progress**: Continued working on Wiki Viewer project for FCC. Added API call to Wikipedia.
+
+**Thoughts:** Due to travel and family commitments I skipped 5 days from my daily coding challenge. Now I'm back into and glad to be coding and progressing! 
+
+**Link to work:** [FCC Intermediate frontend Project 3 - Wikipedia Viewer] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/02/wiki/index.html)
+
+
 ### Day 10: January 11, 2017
 
 **Today's Progress**: Finished Everything Be Truth algorithm in FCC.
