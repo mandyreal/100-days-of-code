@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 17, 2017
+
+**Today's Progress**: Added code to dynamically display Wiki search results. All user stories satisfied.
+
+**Thoughts:** One minor project done! I feel there's more styling required to make it appear more appealing. Maybe I can go back later to improve the styling. I'll keep moving for now. 
+
+**Link to work:** [FCC Intermediate frontend Project 3 - Wikipedia Viewer] (https://mandyreal.github.io/freecodecamp/02/wiki/)
+
+
 ### Day 11: January 16, 2017
 
 **Today's Progress**: Continued working on Wiki Viewer project for FCC. Added API call to Wikipedia.
