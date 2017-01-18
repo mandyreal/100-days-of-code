@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 18, 2017
+
+**Today's Progress**: Finished algo scripting for FCC on Inventory Update
+**Thoughts:** Need to brush up on functions and 'this' object. 
+**Link to work:** [FCC Algo Scripting - Inventory Update] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/algorithm%20scripting/inventory.js)
+
 ### Day 12: January 17, 2017
 
 **Today's Progress**: Added code to dynamically display Wiki search results. All user stories satisfied.
