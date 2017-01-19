@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 19, 2017
+
+**Today's Progress**: Started Twitch Viewer project on FCC
+
+**Thoughts:** I reviewed the user stories and started planning the app in my head. My goal is to code each line as much as possible without copying from my earlier projects. This would take time but I feel would be more effective in retaining the important basics.
+
+**Link to work:** [FCC Intermediate frontend Project 4 - Twitch Viewers] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/twitch)
+
+
 ### Day 13: January 18, 2017
 
 **Today's Progress**: Finished algo scripting for FCC on Inventory Update
