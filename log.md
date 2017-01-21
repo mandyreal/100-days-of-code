@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 20, 2017
+
+**Today's Progress**: Continued working on the Twitch Viewer project on FCC
+
+**Thoughts:** Played around Bootstrap tabs to implement the different views. I skipped a day yesterday because it was Friday! Good thing is now I'm on track again. 
+
+**Link to work:** [FCC Intermediate frontend Project 4 - Twitch Viewers] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/twitch)
+
+
 ### Day 14: January 19, 2017
 
 **Today's Progress**: Started Twitch Viewer project on FCC
