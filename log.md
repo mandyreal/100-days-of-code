@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 15: January 20, 2017
+### Day 16: January 22, 2017
+
+**Today's Progress**: Continued working on the Twitch Viewer project on FCC. Added the Twitchtv API. Good thing no user registration is required. My next target is to parse the API's returned json into the HTML elements.
+
+**Thoughts:** Slow progress but better than none. 
+
+**Link to work:** [FCC Intermediate frontend Project 4 - Twitch Viewers] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/twitch)
+
+
+### Day 15: January 21, 2017
 
 **Today's Progress**: Continued working on the Twitch Viewer project on FCC
 
