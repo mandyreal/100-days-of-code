@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 23, 2017
+
+**Today's Progress**: Finished the iOS app which I've doing on the side. This is the first app for Udacity's Intro to iOS Development course. 
+
+**Thoughts:** It always feels good to have completed a small project. 
+
+**Link to work:** [Pitch Perfect App from Udacity] (https://github.com/mandyreal/PitchPerfect.git
+)
+
+
 ### Day 16: January 22, 2017
 
 **Today's Progress**: Continued working on the Twitch Viewer project on FCC. Added the Twitchtv API. Good thing no user registration is required. My next target is to parse the API's returned json into the HTML elements.
