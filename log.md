@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 24, 2017
+
+**Today's Progress**: Minor fix on the app as it was crashing when ran on actual device. Today I learned that privacy settings required by the app need to updated in the Info.plist.
+
+**Thoughts:** It's always good to test apps on the simulator and on actual device. Managed to figure out the root cause just by reading from the forums as this bit of info is not included in the tutorial. 
+
+**Link to work:** [Pitch Perfect App from Udacity] (https://github.com/mandyreal/PitchPerfect.git)
+
+
 ### Day 17: January 23, 2017
 
 **Today's Progress**: Finished the iOS app which I've doing on the side. This is the first app for Udacity's Intro to iOS Development course. 
