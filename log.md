@@ -4,7 +4,7 @@
 
 **Today's Progress**: Started to work again on the TwitchTV viewer app for FCC.
 
-**Thoughts:** Slow progress trying to figure out the structure of the API's returned data. Slow progress today.
+**Thoughts:** Due to travels, skipped a few days. Now, trying hard to get back up to speed. Slow progress trying to figure out the structure of the API's returned data. Slow progress today.
 
 **Link to work:** [FCC Intermediate frontend Project 4 - Twitch Viewers] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/twitch)
 
