@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 30, 2017
+
+**Today's Progress**: Started to work again on the TwitchTV viewer app for FCC.
+
+**Thoughts:** Slow progress trying to figure out the structure of the API's returned data. Slow progress today.
+
+**Link to work:** [FCC Intermediate frontend Project 4 - Twitch Viewers] (https://github.com/mandyreal/freecodecamp/tree/gh-pages/02/twitch)
+
+
 ### Day 18: January 24, 2017
 
 **Today's Progress**: Minor fix on the app as it was crashing when ran on actual device. Today I learned that privacy settings required by the app need to updated in the Info.plist.
