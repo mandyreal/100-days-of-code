@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 1, 2017
+
+**Today's Progress**: Continued doing Flatiron School's Bootcamp Prep. Finished the JS arithmetic lab.
+
+**Thoughts:** Basics are very important.
+
+**Link to work:** [Flatiron School Bootcamp Prep - JS Arithmetic lab] (https://github.com/mandyreal/javascript-arithmetic-lab-bootcamp-prep-000)
+
+
 ### Day 19: January 30, 2017
 
 **Today's Progress**: Started to work again on the TwitchTV viewer app for FCC.
