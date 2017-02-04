@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 4, 2017
+
+**Today's Progress**: Finished one algorithm challenge in FCC.
+
+**Thoughts:** Read about closures in MDN. Need to read further. Im currently switching between FCC, Flatiron, iOS. Small things hopefully add up to bigger ones.
+
+**Link to work:** [FCC Algorithm challenge] (freecodecamp/algorithm scripting/makePerson.js)
+
+
 ### Day 20: February 1, 2017
 
 **Today's Progress**: Continued doing Flatiron School's Bootcamp Prep. Finished the JS arithmetic lab.
