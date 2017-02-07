@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 7, 2017
+
+**Today's Progress**: Finished Flat Iron's Bootcamp prep lab on Scopes.
+
+**Thoughts:** I had fun debugging the functions and applying the lesson on Scope.
+
+**Link to work:** [Flat Iron Bootcamp Prep - Lesson on Scope] (javascript-fix-the-scope-lab-bootcamp-prep-000/index.js)
+
+
 ### Day 21: February 4, 2017
 
 **Today's Progress**: Finished one algorithm challenge in FCC.
