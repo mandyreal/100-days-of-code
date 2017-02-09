@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 9, 2017
+
+**Today's Progress**: Started FCC algo on Friendly Date Ranges
+
+**Thoughts:** Most of the time I try to push myself to push the challeng all in one day. If I'm not able to, it's still good to start something small and build on it daily.
+
+**Link to work:** [FCC Friendly Date range] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/algorithm%20scripting/dateRange.js)
+
+
 ### Day 22: February 7, 2017
 
 **Today's Progress**: Finished Flat Iron's Bootcamp prep lab on Scopes.
 
 **Thoughts:** I had fun debugging the functions and applying the lesson on Scope.
 
-**Link to work:** [Flat Iron Bootcamp Prep - Lesson on Scope] (javascript-fix-the-scope-lab-bootcamp-prep-000/index.js)
+**Link to work:** [Flat Iron Bootcamp Prep - Lesson on Scope] (https://github.com/mandyreal/javascript-fix-the-scope-lab-bootcamp-prep-000)
 
 
 ### Day 21: February 4, 2017
