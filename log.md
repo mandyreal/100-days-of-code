@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 12, 2017
+
+**Today's Progress**: Completed FCC algo on Friendly Date Ranges
+
+**Thoughts:** Took me longer than I expected. I had trouble using the Date.UTC function, because the month parameter starts at 0 for January. How tricky can that be?
+
+**Link to work:** [FCC Friendly Date range] (https://github.com/mandyreal/freecodecamp/blob/gh-pages/algorithm%20scripting/dateRange.js)
+
+
 ### Day 23: February 9, 2017
 
 **Today's Progress**: Started FCC algo on Friendly Date Ranges
