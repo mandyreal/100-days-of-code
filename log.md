@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 18, 2017
+
+**Today's Progress**: Completed lab on JS hoisting for Flatiron School Bootcamp prep.
+
+**Thoughts:** Due to work and personal commitments, it's been hard keeping up the daily coding habit. Still it's good to be learning even small things slowly.
+
+**Link to work:** [Flatiron School Bootcamp Prep - Hoisting Lab] (https://github.com/mandyreal/js-hoisting-readme-bootcamp-prep-000/blob/master/hoisting.js)
+
+
 ### Day 24: February 12, 2017
 
 **Today's Progress**: Completed FCC algo on Friendly Date Ranges
