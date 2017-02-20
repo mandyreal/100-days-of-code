@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 20, 2017
+
+**Today's Progress**: Re-started Flat Iron's iOS Bootcamp prep
+
+**Thoughts:** I enjoyed doing the labs. As always, the best to learn coding in new language is to code. There's always that satisfying feeling in submitting a pull request. At this point, between iOS and frontend dev - I'm trying to weigh whether my time and effort is more worth spending in one than the other. 
+
+**Link to work:** [Flatiron School iOS Bootcamp Prep] (https://github.com/mandyreal/swift-funcMultipleArg-lab-swift-intro-000.git)
+
 ### Day 25: February 18, 2017
 
 **Today's Progress**: Completed lab on JS hoisting for Flatiron School Bootcamp prep.
