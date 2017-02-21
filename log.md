@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 21, 2017
+
+**Today's Progress**: Completed from 11 till 20% of the prepr course.
+
+**Thoughts:** I enjoyed doing the labs again. There's a high in creating pull requests after successful completion of each exercise!
+
+**Link to work:** [Flatiron School iOS Bootcamp Prep] (https://github.com/mandyreal/swift-funcMultipleArg-lab-swift-intro-000.git)
+
+
 ### Day 26: February 20, 2017
 
 **Today's Progress**: Re-started Flat Iron's iOS Bootcamp prep
