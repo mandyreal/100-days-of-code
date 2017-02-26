@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 28: February 26, 2017
+
+**Today's Progress**: Completed FI School iOS Bootcamp prab lab on switch.
+
+**Thoughts:** Small steps will eventually amount to something big I hope.
+
+**Link to work:** [Flatiron School iOS Bootcamp Prep] (https://github.com/mandyreal/swift-switchLab-lab-swift-intro-000)
+
 
 ### Day 27: February 21, 2017
 
