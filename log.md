@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 29: March 4, 2017
+
+**Today's Progress**: Completed FI School iOS Bootcamp Prep lab on Swift Basics.
+
+**Thoughts:** Basics done. Moving off to Storyboards nows. 
+
+**Link to work:** [Flatiron School iOS Bootcamp Prep] (https://github.com/mandyreal/swift-mathBoolOpConSwitch-lab-swift-intro-000.git)
+
 ### Day 28: February 26, 2017
 
 **Today's Progress**: Completed FI School iOS Bootcamp prab lab on switch.
