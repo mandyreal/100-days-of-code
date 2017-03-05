@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 30: March 4, 2017
+
+**Today's Progress**: Completed FI School iOS Bootcamp Prep lab on Interface Builder
+
+**Thoughts:** Initial layout for Simon Says app done using Interface Builder
+
+**Link to work:** [Flatiron School iOS Bootcamp Prep] (https://github.com/mandyreal/swift-interfaceBuilder-lab-swift-intro-000)
+
 ### Day 29: March 4, 2017
 
 **Today's Progress**: Completed FI School iOS Bootcamp Prep lab on Swift Basics.
