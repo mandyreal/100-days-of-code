@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 31: March 8, 2017
+
+**Today's Progress**: Completed FCC's challenge on Managing Packages with npm using cloud9
+
+**Thoughts:** npm is interesting. I still have not gone back to doing the rest of the frontend challenges, so started some backend stuff instead.
+
+**Link to work:** [FCC Managing Packages with npm] (https://github.com/mandyreal/how-to-npm.git)
+
 ### Day 30: March 4, 2017
 
 **Today's Progress**: Completed FI School iOS Bootcamp Prep lab on Interface Builder
