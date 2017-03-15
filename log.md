@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 32: March 15, 2017
+
+**Today's Progress**: Reviewed iOS life cycled
+
+**Thoughts:** I was a bit surprised to realise that my last update had been a week ago!
+
+**Link to work:** [FI School iOS view controller life cycle lesson] (https://github.com/mandyreal/swift-ViewLifeCycle-readme)
+
 ### Day 31: March 8, 2017
 
 **Today's Progress**: Completed FCC's challenge on Managing Packages with npm using cloud9
