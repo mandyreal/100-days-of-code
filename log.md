@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+
+### Day 33: March 19, 2017
+
+**Today's Progress**: Done with lab on UIView lifecycle
+
+**Thoughts:** I had fun solving the lab. The code needs a lot of refactoring from the looks of it.
+
+**Link to work:** [FI School iOS lab on View lifecycle] (https://github.com/mandyreal/swift-viewLifeCycle-lab-swift-intro-000)
+
+
 ### Day 32: March 15, 2017
 
 **Today's Progress**: Reviewed iOS life cycled
