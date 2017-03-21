@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 34: March 21, 2017
+
+**Today's Progress**: Done with lab on IBOutlets
+
+**Thoughts:** I had fun again solving the lab. Need to refactor and apply Autolayout though.
+
+**Link to work:** [FI School iOS lab on View lifecycle] (https://github.com/mandyreal/swift-outlets-lab-swift-intro-000.git
+)
 
 ### Day 33: March 19, 2017
 
@@ -7,7 +15,6 @@
 **Thoughts:** I had fun solving the lab. The code needs a lot of refactoring from the looks of it.
 
 **Link to work:** [FI School iOS lab on View lifecycle] (https://github.com/mandyreal/swift-viewLifeCycle-lab-swift-intro-000)
-
 
 ### Day 32: March 15, 2017
 
