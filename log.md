@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 35: March 22, 2017
+
+**Today's Progress**: Finished FCC Twitch TV viewer app. 
+
+**Thoughts:** I finally found the time to put back together all the Javascript skills I've learned. Switching between iOS and frontend is a bit tough, but I'm glad it's working somehow.
+
+**Link to work:** [FCC Twitch TV Viewer app] (https://mandyreal.github.io/freecodecamp/02/twitch/)
+
 ### Day 34: March 21, 2017
 
 **Today's Progress**: Done with lab on IBOutlets
