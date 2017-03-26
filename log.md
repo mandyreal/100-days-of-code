@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 37: March 26, 2017
+
+**Today's Progress**: Added operations to the calculator. However it still doesn't chain the operations. Reading about the eval function.
+
+**Thoughts:** I enjoy doing the challenge. There are always number of ways to solve a problem. 
+
+**Link to work:** [FCC Javascript Calculator] (https://mandyreal.github.io/freecodecamp/03/calculator/)
+
 ### Day 36: March 23, 2017
 
 **Today's Progress**: Started one of the advaced js projects for FCC - building a javascript calculator. Display of numbers now working. Will work on the operators next.
