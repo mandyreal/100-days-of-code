@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 38: April 2, 2017
+
+**Today's Progress**: Completed another lab for the Flatiron School iOS Bootcamp prep course this time on array iteration.
+
+**Thoughts:** I enjoyed doing the challenge as always. I'm switching between iOS and Javascript coding which proves to be a bit of a challenge syntax-wise.
+
+**Link to work:** [FI School lab on array iteration] (https://github.com/mandyreal/swift-arrayIterationLab-lab-swift-intro-000.git)
+
 ### Day 37: March 26, 2017
 
 **Today's Progress**: Added operations to the calculator. However it still doesn't chain the operations. Reading about the eval function.
