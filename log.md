@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 39: April 2, 2017
+
+**Today's Progress**: Completed lab on array methods in Swift
+
+**Thoughts:** Fun as always.
+
+**Link to work:** [FI School lab on Swift array methods] (https://github.com/mandyreal/swift-arrayMethods-lab-swift-intro-000)
+
 ### Day 38: April 2, 2017
 
 **Today's Progress**: Completed another lab for the Flatiron School iOS Bootcamp prep course this time on array iteration.
