@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 40: April 26, 2017
+
+**Today's Progress**: To add more fun, I'm doing Ruby on Rails tutorials as well. Due to school holidays, travels, getting sick I skipped so many days. But the good thing is to keep going and going.
+
+**Thoughts:** TDD is interesting.
+
+**Link to work:** [Photogram - Instagram clone implemented using TDD] (hhttps://github.com/mandyreal/Photogram-tdd.git)
+
 ### Day 39: April 2, 2017
 
 **Today's Progress**: Completed lab on array methods in Swift
