@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 41: April 30, 2017
+
+**Today's Progress**: I learned about the API feature in Rails 5 and the gem httpie to test the RESTful API built.
+
+**Thoughts:** The RESTfule API feature of Rails 5 is nice and fun to use.
+
+**Link to work:** [RESTful JSON API rails app] (https://github.com/mandyreal/todos-api.git)
+
 ### Day 40: April 26, 2017
 
 **Today's Progress**: To add more fun, I'm doing Ruby on Rails tutorials as well. Due to school holidays, travels, getting sick I skipped so many days. But the good thing is to keep going and going.
