@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log
+### Day 42: 4 May, 2017
+
+**Today's Progress**: Finished the Book Review web app.
+
+**Thoughts:** Watching video tutorial than reading one is more enjoyable it seems. 
+
+**Link to work:** [Book Review rails app] (https://github.com/mandyreal/BookReview.git)
+
 ### Day 41: April 30, 2017
 
 **Today's Progress**: I learned about the API feature in Rails 5 and the gem httpie to test the RESTful API built.
 
-**Thoughts:** The RESTfule API feature of Rails 5 is nice and fun to use.
+**Thoughts:** The RESTful API feature of Rails 5 is nice and fun to use.
 
 **Link to work:** [RESTful JSON API rails app] (https://github.com/mandyreal/todos-api.git)
 
