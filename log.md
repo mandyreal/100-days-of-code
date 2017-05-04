@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
-### Day 42: 4 May, 2017
+### Day 43: 4 May, 2017
+
+**Today's Progress**: Started a new tutorial on how to build a todo list web app.
+
+**Thoughts:** This time I learned how to use scaffolding in Rails. 
+
+**Link to work:** [Todo web app in Rails] (https://github.com/mandyreal/todo.git)
+
+### Day 42: 3 May, 2017
 
 **Today's Progress**: Finished the Book Review web app.
 
