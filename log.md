@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 44: 7 May, 2017
+
+**Today's Progress**: Continued tutorial on how to build a todo list web app.
+
+**Thoughts:** Learned about rolling back migrations due to a typo error I made in the initial migration. 
+
+**Link to work:** [Todo web app in Rails] (https://github.com/mandyreal/todo.git)
+
 ### Day 43: 4 May, 2017
 
 **Today's Progress**: Started a new tutorial on how to build a todo list web app.
