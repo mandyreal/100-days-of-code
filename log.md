@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 45: 7 May, 2017
+
+**Today's Progress**: Finished tutorial on creating a voting app using Sinatra.
+
+**Thoughts:** Learned about Sinatra today. 
+
+**Link to work:** [Voting web app using Sinatra] (https://github.com/mandyreal/voting-app.git)
+
+
 ### Day 44: 7 May, 2017
 
 **Today's Progress**: Continued tutorial on how to build a todo list web app.
