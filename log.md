@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 46: 9 May, 2017
+
+**Today's Progress**: Started a new tutorial still on Sinatra.
+
+**Thoughts:** Learned more about Sinatra today. 
+
+**Link to work:** [Sinatra basics] (https://github.com/mandyreal/sinatra-basics.git)
+
 ### Day 45: 7 May, 2017
 
 **Today's Progress**: Finished tutorial on creating a voting app using Sinatra.
@@ -6,7 +14,6 @@
 **Thoughts:** Learned about Sinatra today. 
 
 **Link to work:** [Voting web app using Sinatra] (https://github.com/mandyreal/voting-app.git)
-
 
 ### Day 44: 7 May, 2017
 
