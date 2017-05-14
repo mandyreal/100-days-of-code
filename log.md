@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 47: 14 May, 2017
+
+**Today's Progress**: Built a landing page based on LeWagon's tutorial.
+
+**Thoughts:** It's great to recall the basics. 
+
+**Link to work:** [Landing Page - LeWagon] (https://github.com/mandyreal/landing-page)
+
+
 ### Day 46: 9 May, 2017
 
 **Today's Progress**: Started a new tutorial still on Sinatra.
