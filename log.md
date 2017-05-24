@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 48: 24 May, 2017
+
+**Today's Progress**: New rails tutorial app deployed to Heroku
+
+**Thoughts:** Learning more and more. 
+
+**Link to work:** [Rail Payment App] (https://ror-payments.herokuapp.com)
+
 ### Day 47: 14 May, 2017
 
 **Today's Progress**: Built a landing page based on LeWagon's tutorial.
