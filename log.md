@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 49: 24 May, 2017
+
+**Today's Progress**: Added home page of the Rails payment app.
+
+**Thoughts:** From hello world to a nice looking main page. 
+
+**Link to work:** [Rail Payment App] (https://ror-payments.herokuapp.com)
+
 ### Day 48: 24 May, 2017
 
 **Today's Progress**: New rails tutorial app deployed to Heroku
