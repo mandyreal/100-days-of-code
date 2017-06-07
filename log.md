@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+### Day 51: 7 June 2017
+
+**Today's Progress**: Almost done with Kanban app. Deployment to follow next.
+
+**Thoughts:** I learned about Google's Material Design this time, as opposed to usual Bootstrap.
+
+**Link to work:** [Rail Payment App] (https://github.com/mandyreal/kanban.git)
+
+### Day 50: 25 May 2017
+
+**Today's Progress**: Added styling to the payment app.
+
+**Thoughts:** Bootstrap 
+
+**Link to work:** [Rail Payment App] (https://ror-payments.herokuapp.com)
+
 ### Day 49: 24 May, 2017
 
 **Today's Progress**: Added home page of the Rails payment app.
