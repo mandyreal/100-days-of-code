@@ -1,11 +1,26 @@
 # 100 Days Of Code - Log
+### Day 53: 15 June 2017
+
+**Today's Progress**: Finished the Reddit clone rails app.
+
+**Thoughts:** The tutorial was based on Rails 4. So I came across few issues due to the fact that I'm developing using Rails 5.1. Good thing there's StackOverflow to look at for similar issues.
+
+**Link to work:** [Rails Reddit clone App] (https://github.com/mandyreal/raddit)
+### Day 52: 8 June 2017
+
+**Today's Progress**: Deployed the Kanban app to Heroku!
+
+**Thoughts:** I had fun doing the app and deploying it.
+
+**Link to work:** [Rails Kanban App] (https://github.com/mandyreal/kanban.git)
+
 ### Day 51: 7 June 2017
 
 **Today's Progress**: Almost done with Kanban app. Deployment to follow next.
 
 **Thoughts:** I learned about Google's Material Design this time, as opposed to usual Bootstrap.
 
-**Link to work:** [Rail Payment App] (https://github.com/mandyreal/kanban.git)
+**Link to work:** [Rails Kanban App] (https://github.com/mandyreal/kanban.git)
 
 ### Day 50: 25 May 2017
 
@@ -13,7 +28,7 @@
 
 **Thoughts:** Bootstrap 
 
-**Link to work:** [Rail Payment App] (https://ror-payments.herokuapp.com)
+**Link to work:** [Rails Payment App] (https://ror-payments.herokuapp.com)
 
 ### Day 49: 24 May, 2017
 
@@ -21,7 +36,7 @@
 
 **Thoughts:** From hello world to a nice looking main page. 
 
-**Link to work:** [Rail Payment App] (https://ror-payments.herokuapp.com)
+**Link to work:** [Rails Payment App] (https://ror-payments.herokuapp.com)
 
 ### Day 48: 24 May, 2017
 
@@ -29,7 +44,7 @@
 
 **Thoughts:** Learning more and more. 
 
-**Link to work:** [Rail Payment App] (https://ror-payments.herokuapp.com)
+**Link to work:** [Rails Payment App] (https://ror-payments.herokuapp.com)
 
 ### Day 47: 14 May, 2017
 
