@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 54: 15 June 2017
+
+**Today's Progress**: Started new rails app. This time it's message board app.
+
+**Thoughts:** I've been actually coding quite regularly in the past days but did not update this log nor tweeted the progress. Good thing is keeping the coding momentum steady.
+
+**Link to work:** [Message Board Rails App] (https://github.com/mandyreal/MessageBoard)
+
 ### Day 53: 15 June 2017
 
 **Today's Progress**: Finished the Reddit clone rails app.
@@ -6,6 +14,7 @@
 **Thoughts:** The tutorial was based on Rails 4. So I came across few issues due to the fact that I'm developing using Rails 5.1. Good thing there's StackOverflow to look at for similar issues.
 
 **Link to work:** [Rails Reddit clone App] (https://github.com/mandyreal/raddit)
+
 ### Day 52: 8 June 2017
 
 **Today's Progress**: Deployed the Kanban app to Heroku!
