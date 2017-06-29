@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 55: 29 June 2017
+
+**Today's Progress**: Finished the Message Board app by styling with Bootstrap.
+
+**Thoughts:** Feels good to finish another project. Recalled Bootstrap well and got reminded again the benefits of using it.
+
+**Link to work:** [Message Board Rails App] (https://github.com/mandyreal/MessageBoard)
+
 ### Day 54: 15 June 2017
 
 **Today's Progress**: Started new rails app. This time it's message board app.
