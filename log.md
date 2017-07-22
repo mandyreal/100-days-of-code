@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 56: 22 July 2017
+
+**Today's Progress**: Started a new rails API all.
+
+**Thoughts:** I have not been updating this log but managed to code daily as much as possible. 
+
+**Link to work:** [Rails API] (https://github.com/mandyreal/small.git
+
+
 ### Day 55: 29 June 2017
 
 **Today's Progress**: Finished the Message Board app by styling with Bootstrap.
